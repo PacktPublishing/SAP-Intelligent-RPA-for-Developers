@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/product/sap-intelligent-rpa-for-developers/9781801079198?utm_source=github&utm_medium=repository&utm_campaign=9781801079198"><img src="https://static.packt-cdn.com/products/9781801079198/cover/smaller" alt="SAP Intelligent RPA for Developers" height="256px" align="right"></a>
 
-This is the code repository for [SAP Intelligent RPA for Developers](https://www.packtpub.com/product/sap-intelligent-rpa-for-developers/9781801079198?utm_source=github&utm_medium=repository&utm_campaign=9781801079198), published by Packt.
+This is the errata page for [SAP Intelligent RPA for Developers](https://www.packtpub.com/product/sap-intelligent-rpa-for-developers/9781801079198?utm_source=github&utm_medium=repository&utm_campaign=9781801079198), published by Packt.
 
 **Automate business processes using SAP Intelligent RPA and learn the migration path to SAP Process Automation**
 
@@ -21,9 +21,6 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1801
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
-
-## Instructions and Navigations
-All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
